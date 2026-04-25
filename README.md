@@ -1,1 +1,6 @@
-# Weather-Forecast
+# Weather-Forecast:
+Welcome to the Weather App repository! This project is a web application that provides real-time weather updates for any location. It utilizes HTML, CSS, and JavaScript to deliver a user-friendly interface and fetches data using the OpenWeatherMap API.
+# Technologies Used:
+Frontend: HTML, CSS, JAVASCRIPT
+API: OpenWeatherMap
+Icons: Fontawesome
